@@ -1,0 +1,6 @@
+
+# Go workspace file
+go.w
+
+#ignore the idea of goland
+*.idea
