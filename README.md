@@ -27,5 +27,5 @@ A simple RESTful API built with Go, designed for managing a bookstore's collecti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bookstore-api.git
-   cd bookstore-api
+   git https://github.com/ndegealbert/Golangbookstore-Api.git
+   cd Golangbookstore-Ap
